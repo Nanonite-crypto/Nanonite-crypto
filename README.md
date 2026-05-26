@@ -8,11 +8,11 @@ Søker 1. eller 2. linje IT-support eller junior utvikler-rolle i Stavanger. Kan
 
 **Forge.** AI-app-generator jeg bygde og deployet på egen Hetzner-server (Next.js, Claude Agent SDK, Stripe, Nginx, PM2, Let's Encrypt). Drev den en stund og tok den ned da serverkostnadene oversteg det jeg fikk ut av eksperimentet. Lærte mer om produksjons-deploy og Linux-drift av det enn av noen tutorial.
 
+**[JARVIS](https://github.com/Nanonite-crypto/jarvis).** Stemmestyrt AI-assistent som styrer PC-en min via verktøykall. Dual-brain: finjustert lokal Qwen3 (Ollama) for det meste, Groq som backup når det trengs. Voice in/out, langtidsminne, og en bridge til Claude Code for selvforbedring.
+
+**[pc-control-mcp](https://github.com/Nanonite-crypto/pc-control-mcp).** MCP-server med 30+ verktøy som lar Claude styre Windows direkte: mus, tastatur, vinduer, skjermbilder, Playwright-nettleser, notater. FastMCP + pyautogui + Playwright.
+
 **[Glow Up Tracker](https://github.com/Nanonite-crypto/glowup-tracker).** Vanilla HTML/CSS/JS PWA jeg bruker selv hver dag for trening, kosthold og skincare. localStorage, service worker, installerbar på iPhone.
-
-**JARVIS.** Stemmestyrt AI-assistent som styrer PC-en min via verktøykall. Finjustert Qwen3 lokalt med Groq som backup. Legges ut når API-nøklene er vasket ut.
-
-**PC Control MCP.** MCP-server med ~30 verktøy som lar Claude styre Windows: mus, tastatur, vinduer, skjermbilder. Kommer etter samme rydding.
 
 ## Hva jeg kan
 
