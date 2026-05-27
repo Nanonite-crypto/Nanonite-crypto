@@ -117,8 +117,4 @@ Generated full-stack Next.js apps from a single prompt. Deployed on my own Hetzn
 
 [![Streak](https://streak-stats.demolab.com?user=Nanonite-crypto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/Nanonite-crypto/Nanonite-crypto/output/github-contribution-grid-snake-dark.svg)
-
 </div>
