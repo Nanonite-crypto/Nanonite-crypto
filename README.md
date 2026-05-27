@@ -115,7 +115,7 @@ Generated full-stack Next.js apps from a single prompt. Deployed on my own Hetzn
 
 <br>
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=Nanonite-crypto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=Nanonite-crypto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
