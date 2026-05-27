@@ -106,15 +106,3 @@ Generated full-stack Next.js apps from a single prompt. Deployed on my own Hetzn
 
 </details>
 
-## Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nanonite-crypto&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanonite-crypto&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" />
-
-<br>
-
-[![Streak](https://streak-stats.demolab.com?user=Nanonite-crypto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
