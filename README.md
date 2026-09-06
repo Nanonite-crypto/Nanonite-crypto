@@ -10,7 +10,6 @@
 $ whoami --verbose
 ──────────────────────────────────────────────────────────
   role          Data Engineer
-  location      Stavanger, Norway  (CEST)
   langs         Python · TypeScript · React · Next.js · Rust · Lua
   loves         Local LLMs · MCP · voice interfaces · PWAs
   speaks        Norwegian / English / Spanish
