@@ -9,14 +9,13 @@
 ```bash
 $ whoami --verbose
 ──────────────────────────────────────────────────────────
-  role          Indie AI builder / fullstack tinkerer
+  role          Data Engineer
   location      Stavanger, Norway  (CEST)
   langs         Python · TypeScript · React · Next.js · Rust · Lua
   loves         Local LLMs · MCP · voice interfaces · PWAs
   speaks        Norwegian / English / Spanish
   shell         PowerShell + bash
   editor        VS Code + Claude Code
-  company       Vevang Technologies ENK
   uptime        19 years
 ──────────────────────────────────────────────────────────
 ```
