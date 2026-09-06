@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E07A&center=true&vCenter=true&width=620&lines=Indie+AI+builder+%C2%B7+Stavanger%2C+Norway;Local+LLMs+%C2%B7+MCP+servers+%C2%B7+fullstack+tools;Voice+interfaces+%2B+Tauri+desktop+apps;Open+to+junior+dev+roles+%26+OSS+collabs)](https://github.com/Nanonite-crypto)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E07A&center=true&vCenter=true&width=620&lines=Data+Engineer;Local+LLMs+%C2%B7+MCP+servers+%C2%B7+fullstack+tools;Voice+interfaces+%2B+Tauri+desktop+apps;Open+to+junior+dev+roles+%26+OSS+collabs)](https://github.com/Nanonite-crypto)
 
 </div>
 
